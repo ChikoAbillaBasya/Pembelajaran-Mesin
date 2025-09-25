@@ -182,12 +182,6 @@ Kontribusi sangat diterima! Jika Anda ingin berkontribusi:
 
 ---
 
-## 📜 Lisensi
-
-Proyek ini dilisensikan di bawah **MIT License** - lihat file [LICENSE](LICENSE) untuk detail.
-
----
-
 ## 🙏 Acknowledgments
 
 - Inspirasi dari berbagai sumber pembelajaran online
