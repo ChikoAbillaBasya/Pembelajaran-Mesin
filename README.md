@@ -190,7 +190,6 @@ Proyek ini dilisensikan di bawah **MIT License** - lihat file [LICENSE](LICENSE)
 
 ## 🙏 Acknowledgments
 
-- Terima kasih kepada komunitas Machine Learning Indonesia
 - Inspirasi dari berbagai sumber pembelajaran online
 - Dukungan dari teman-teman di bidang Data Science
 
@@ -203,9 +202,5 @@ Proyek ini dilisensikan di bawah **MIT License** - lihat file [LICENSE](LICENSE)
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ChikoAbillaBasya.Pembelajaran-Mesin)
 
 *Happy Learning! 🚀*
-
----
-
-**Made with ❤️ by [ChikoAbillaBasya](https://github.com/ChikoAbillaBasya)**
 
 </div>
