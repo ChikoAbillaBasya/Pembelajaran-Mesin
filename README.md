@@ -43,7 +43,7 @@ Repositori ini berisi kumpulan **Jobsheet Machine Learning** yang mencakup berba
 
 ```
 📦 Pembelajaran-Mesin/
-├── 📄 README.md                               # File dokumentasi utama
+├── 📄 README.md                             # File dokumentasi utama
 ├── 📄 JS04_SOAL_KUIS1_ML.ipynb              # Kuis Machine Learning
 ├── 📁 Jobsheet-01/                          # Pengenalan ML
 │   └── 📓 Pengenalan_Pembelajaran_Mesin.ipynb
