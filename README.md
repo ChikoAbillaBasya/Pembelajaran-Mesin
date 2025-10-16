@@ -5,9 +5,9 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Expert-brightgreen?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge")
 
-**Kumpulan Jobsheet dan Materi Pembelajaran Mesin** 📚
+**Kumpulan Jobsheet, Notebook, dan Kuis Pembelajaran Mesin** 📚
 
 *Eksplorasi dunia AI dan Machine Learning melalui implementasi praktis!*
 
@@ -18,10 +18,10 @@
 ## 📋 Daftar Isi
 
 - [🎯 Tentang Proyek](#-tentang-proyek)
-- [📂 Struktur Folder](#-struktur-folder)
+- [📂 Struktur File](#-struktur-file)
 - [🛠️ Teknologi yang Digunakan](#-teknologi-yang-digunakan)
 - [🚀 Cara Menjalankan](#-cara-menjalankan)
-- [📖 Materi Pembelajaran](#-materi-pembelajaran)
+- [📖 Deskripsi File](#-deskripsi-file)
 - [👨‍💻 Kontributor](#-kontributor)
 - [📝 Lisensi](#-lisensi)
 
@@ -29,30 +29,22 @@
 
 ## 🎯 Tentang Proyek
 
-Repositori ini berisi kumpulan **Jobsheet Machine Learning** yang mencakup berbagai topik fundamental dalam pembelajaran mesin. Setiap jobsheet dirancang untuk memberikan pemahaman praktis dan teori yang solid tentang konsep-konsep ML.
-
-### ✨ Highlights:
-- 📊 **Data Science**: Pemahaman dan pengolahan data
-- 🔍 **Feature Engineering**: Ekstraksi dan seleksi fitur
-- 🎯 **Clustering**: Algoritma pengelompokan data
-- 📈 **Practical Implementation**: Implementasi dengan Python & Jupyter
+Repositori ini berisi kumpulan **notebook dan jobsheet Machine Learning** yang membahas berbagai topik fundamental dalam pembelajaran mesin. Setiap file dirancang agar mudah dipelajari dan langsung bisa dipraktikkan.
 
 ---
 
-## 📂 Struktur Folder
+## 📂 Struktur File
 
 ```
 📦 Pembelajaran-Mesin/
-├── 📄 README.md                             # File dokumentasi utama
-├── 📄 JS04_SOAL_KUIS1_ML.ipynb              # Kuis Machine Learning
-├── 📁 Jobsheet-01/                          # Pengenalan ML
-│   └── 📓 Pengenalan_Pembelajaran_Mesin.ipynb
-├── 📁 Jobsheet-02/                          # Data Processing
-│   └── 📓 Pemahaman_Data_dan_Pra_Pengolahan_Data.ipynb
-├── 📁 Jobsheet-03/                          # Feature Engineering
-│   └── 📓 Ektraksi Fitur.ipynb
-└── 📁 Jobsheet-04/                          # Clustering
-    └── 📓 Klasterisasi.ipynb
+├── README.md                              # Dokumentasi utama
+├── ANN_(Approximate_Nearest_Neighbors).ipynb   # Notebook tentang Approximate Nearest Neighbors
+├── Ektraksi_Fitur.ipynb                   # Notebook Ekstraksi Fitur
+├── JS04_SOAL_KUIS1_ML.ipynb               # Kuis Machine Learning
+├── Klasterisasi_Hierarki.ipynb            # Notebook Klasterisasi Hierarki
+├── Klasterisasi.ipynb                     # Notebook Klasterisasi
+├── Pemahaman_Data_dan_Pra_Pengolahan_Data.ipynb # Notebook Pra-pemrosesan Data
+└── Pengenalan_Pembelajaran_Mesin.ipynb    # Notebook Pengenalan ML
 ```
 
 ---
@@ -61,28 +53,20 @@ Repositori ini berisi kumpulan **Jobsheet Machine Learning** yang mencakup berba
 
 <div align="center">
 
-| Teknologi | Deskripsi | Badge |
-|-----------|-----------|-------|
-| **Python** | Bahasa pemrograman utama | ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue) |
-| **Jupyter Notebook** | Environment pengembangan interaktif | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) |
-| **NumPy** | Komputasi numerik | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) |
-| **Pandas** | Manipulasi dan analisis data | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) |
-| **Scikit-learn** | Library machine learning | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) |
-| **Matplotlib** | Visualisasi data | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat) |
+| Teknologi         | Deskripsi                        | Badge |
+|-------------------|----------------------------------|-------|
+| **Python**        | Bahasa pemrograman utama         | ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue) |
+| **Jupyter**       | Notebook interaktif              | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) |
+| **NumPy**         | Komputasi numerik                | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) |
+| **Pandas**        | Analisis data                    | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) |
+| **Scikit-learn**  | Library machine learning         | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) |
+| **Matplotlib**    | Visualisasi data                 | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat) |
 
 </div>
 
 ---
 
 ## 🚀 Cara Menjalankan
-
-### 📋 Prerequisites
-Pastikan Anda telah menginstall:
-- Python 3.8 atau lebih baru
-- Jupyter Notebook atau JupyterLab
-- Git
-
-### 🔧 Instalasi
 
 1. **Clone repository**
    ```bash
@@ -104,41 +88,28 @@ Pastikan Anda telah menginstall:
 
 ---
 
-## 📖 Materi Pembelajaran
+## 📖 Deskripsi File
 
-### 🎓 Jobsheet 01: Pengenalan Pembelajaran Mesin
-- **Topik**: Konsep dasar Machine Learning
-- **Tujuan**: Memahami fundamental ML dan jenis-jenisnya
-- **File**: `Jobsheet-01/Pengenalan_Pembelajaran_Mesin.ipynb`
+- **[Pengenalan_Pembelajaran_Mesin.ipynb](Pengenalan_Pembelajaran_Mesin.ipynb)**  
+  Dasar-dasar machine learning, konsep, dan contoh sederhana.
 
-### 📊 Jobsheet 02: Pemahaman Data dan Pra-Pengolahan
-- **Topik**: Data understanding & preprocessing
-- **Tujuan**: Menguasai teknik cleaning dan transformasi data
-- **File**: `Jobsheet-02/Pemahaman_Data_dan_Pra_Pengolahan_Data.ipynb`
+- **[Pemahaman_Data_dan_Pra_Pengolahan_Data.ipynb](Pemahaman_Data_dan_Pra_Pengolahan_Data.ipynb)**  
+  Pemahaman data, teknik pra-pemrosesan, dan cleaning data.
 
-### 🔍 Jobsheet 03: Ekstraksi Fitur
-- **Topik**: Feature extraction dan selection
-- **Tujuan**: Memahami cara mengekstrak fitur yang relevan
-- **File**: `Jobsheet-03/Ektraksi Fitur.ipynb`
+- **[Ektraksi_Fitur.ipynb](Ektraksi_Fitur.ipynb)**  
+  Teknik ekstraksi dan seleksi fitur pada data.
 
-### 🎯 Jobsheet 04: Klasterisasi
-- **Topik**: Clustering algorithms
-- **Tujuan**: Implementasi algoritma pengelompokan data
-- **File**: `Jobsheet-04/Klasterisasi.ipynb`
+- **[Klasterisasi.ipynb](Klasterisasi.ipynb)**  
+  Implementasi algoritma clustering (pengelompokan data).
 
-### 📝 Kuis Machine Learning
-- **File**: `JS04_SOAL_KUIS1_ML.ipynb`
-- **Deskripsi**: Evaluasi pemahaman materi ML
+- **[Klasterisasi_Hierarki.ipynb](Klasterisasi_Hierarki.ipynb)**  
+  Klasterisasi dengan metode hierarki.
 
----
+- **[ANN_(Approximate_Nearest_Neighbors).ipynb](ANN_(Approximate_Nearest_Neighbors).ipynb)**  
+  Pengenalan dan implementasi Approximate Nearest Neighbors.
 
-## 🎨 Fitur Unggulan
-
-- ✅ **Interactive Learning**: Semua materi dalam format Jupyter Notebook
-- ✅ **Hands-on Practice**: Implementasi langsung dengan kode
-- ✅ **Comprehensive Coverage**: Mencakup pipeline ML lengkap
-- ✅ **Visualization**: Grafik dan plot untuk pemahaman visual
-- ✅ **Real Examples**: Studi kasus dengan dataset nyata
+- **[JS04_SOAL_KUIS1_ML.ipynb](JS04_SOAL_KUIS1_ML.ipynb)**  
+  Kumpulan soal kuis untuk evaluasi pemahaman materi ML.
 
 ---
 
@@ -156,44 +127,15 @@ Pastikan Anda telah menginstall:
 
 ---
 
-## 📊 Progress Tracker
+## 📝 Lisensi
 
-```
-📈 Learning Progress:
-
-✅ Jobsheet 01 - Pengenalan ML        [████████████████████] 100%
-✅ Jobsheet 02 - Data Processing      [████████████████████] 100%  
-✅ Jobsheet 03 - Feature Extraction   [████████████████████] 100%
-✅ Jobsheet 04 - Clustering           [████████████████████] 100%
-✅ Kuis ML                            [████████████████████] 100%
-```
-
----
-
-## 🤝 Kontribusi
-
-Kontribusi sangat diterima! Jika Anda ingin berkontribusi:
-
-1. Fork repositori ini
-2. Buat branch baru (`git checkout -b feature/improvement`)
-3. Commit perubahan (`git commit -am 'Add new feature'`)
-4. Push ke branch (`git push origin feature/improvement`)
-5. Buat Pull Request
-
----
-
-## 🙏 Acknowledgments
-
-- Inspirasi dari berbagai sumber pembelajaran online
-- Dukungan dari teman-teman di bidang Data Science
+Repositori ini hanya untuk keperluan edukasi dan pembelajaran.
 
 ---
 
 <div align="center">
 
 **⭐ Jangan lupa berikan star jika repositori ini membantu! ⭐**
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ChikoAbillaBasya.Pembelajaran-Mesin)
 
 *Happy Learning! 🚀*
 
