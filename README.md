@@ -38,14 +38,14 @@ Repositori ini berisi kumpulan **notebook dan jobsheet Machine Learning** yang m
 
 ```
 📦 Pembelajaran-Mesin/
-├── README.md                              # Dokumentasi utama
-├── ANN_(Approximate_Nearest_Neighbors).ipynb   # Notebook tentang Approximate Nearest Neighbors
-├── Ektraksi_Fitur.ipynb                   # Notebook Ekstraksi Fitur
-├── JS04_SOAL_KUIS1_ML.ipynb               # Kuis Machine Learning
-├── Klasterisasi_Hierarki.ipynb            # Notebook Klasterisasi Hierarki
-├── Klasterisasi.ipynb                     # Notebook Klasterisasi
+├── README.md                                    # Dokumentasi utama
+├── ANN_(Approximate_Nearest_Neighbors).ipynb    # Notebook tentang Approximate Nearest Neighbors
+├── Ektraksi_Fitur.ipynb                         # Notebook Ekstraksi Fitur
+├── JS04_SOAL_KUIS1_ML.ipynb                     # Kuis Machine Learning
+├── Klasterisasi_Hierarki.ipynb                  # Notebook Klasterisasi Hierarki
+├── Klasterisasi.ipynb                           # Notebook Klasterisasi
 ├── Pemahaman_Data_dan_Pra_Pengolahan_Data.ipynb # Notebook Pra-pemrosesan Data
-└── Pengenalan_Pembelajaran_Mesin.ipynb    # Notebook Pengenalan ML
+└── Pengenalan_Pembelajaran_Mesin.ipynb          # Notebook Pengenalan ML
 ```
 
 ---
